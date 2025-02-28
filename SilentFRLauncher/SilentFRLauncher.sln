@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SilentFRLauncher", "SilentFRLauncher\SilentFRLauncher.vcxproj", "{42ACE9D1-B247-4D2B-AFE4-41170B9FAE10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42ACE9D1-B247-4D2B-AFE4-41170B9FAE10}.Debug|x64.ActiveCfg = Debug|x64
+		{42ACE9D1-B247-4D2B-AFE4-41170B9FAE10}.Debug|x64.Build.0 = Debug|x64
+		{42ACE9D1-B247-4D2B-AFE4-41170B9FAE10}.Debug|x86.ActiveCfg = Debug|Win32
+		{42ACE9D1-B247-4D2B-AFE4-41170B9FAE10}.Debug|x86.Build.0 = Debug|Win32
+		{42ACE9D1-B247-4D2B-AFE4-41170B9FAE10}.Release|x64.ActiveCfg = Release|x64
+		{42ACE9D1-B247-4D2B-AFE4-41170B9FAE10}.Release|x64.Build.0 = Release|x64
+		{42ACE9D1-B247-4D2B-AFE4-41170B9FAE10}.Release|x86.ActiveCfg = Release|Win32
+		{42ACE9D1-B247-4D2B-AFE4-41170B9FAE10}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C774936-1908-40E5-973B-06DDE532D533}
+	EndGlobalSection
+EndGlobal
